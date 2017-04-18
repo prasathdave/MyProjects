@@ -7,6 +7,7 @@ public class Example {
 		System.out.println("hello world!");
 		System.out.println("success1");
 		System.out.println("success2");
+		System.out.println("success3");
 	}
 
 }
